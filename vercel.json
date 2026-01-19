@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd my-app && npm run build",
+  "outputDirectory": "my-app/.next",
+  "devCommand": "cd my-app && npm run dev",
+  "cleanUrls": true
+}
